@@ -120,7 +120,7 @@ const Hero = () => {
                     className='self-center relative overflow-hidden'
                 >
                     <img
-                        src={img4}
+                        src={'https://plus.unsplash.com/premium_photo-1681276170291-27698ccc0a8e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGpld2Vscnl8ZW58MHwxfDB8fHwx'}
                         alt="Jewelry showcase"
                         className='h-[500px] object-cover'
                     />
