@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Star, Heart } from 'lucide-react';
+import { motion } from 'framer-motion';
 import eternalEmbraceRing from '../../public/rings/eternal-embrace-ring.avif';
 import harmonicSerenityRing from '../../public/rings/harmonic-serenity-ring.avif';
 import starlitVoyageRing from '../../public/rings/starlit-voyage-ring.avif';
