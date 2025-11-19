@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif+Display&family=Noto+Serif+Bengali:wght@100..900&family=Noto+Serif+TC:wght@200..900&display=swap');
+@import "tailwindcss";
+
+/* Improve serif font rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+@theme {
+  --color-baige: #f5f5f5;
+  --color-dark-50: #ffffff;
+  --color-dark-100: #e6e6e6;
+  --color-dark-200: #cccccc;
+  --color-dark-300: #b3b3b3;
+  --color-dark-400: #999999;
+  --color-dark-500: #808080;
+  --color-dark-600: #666666;
+  --color-dark-700: #4d4d4d;
+  --color-dark-800: #333333;
+  --color-dark-900: #000000;
+  --color-gold-50: #fffef5;
+  --color-gold-100: #fffaeb;
+  --color-gold-200: #fff4c2;
+  --color-gold-300: #ffeb99;
+  --color-gold-400: #ffe066;
+  --color-gold-500: #ffd819;
+  --color-gold-600: #e6c200;
+  --color-gold-700: #b39900;
+  --color-gold-800: #806d00;
+  --color-gold-900: #4d4100;
+}
